@@ -1,0 +1,4 @@
+*.o
+echo_server
+echo_client
+.idea
